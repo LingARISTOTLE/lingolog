@@ -1,3 +1,3 @@
-module github.com/LingARISTOTLE/spoor
+module github.com/LingARISTOTLE/lingolog
 
 go 1.18
